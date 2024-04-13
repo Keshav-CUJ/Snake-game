@@ -1,3 +1,3 @@
 # Snake-game
 using c programming language
-in turbo c++
+easy to run in turbo c++
