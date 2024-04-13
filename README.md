@@ -1,4 +1,4 @@
 # Snake-game
 using c programming language
-<dr>
+<br>
 in turbo c++
